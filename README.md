@@ -1,5 +1,5 @@
 # LLSorter
-A Love Live Character true round robin Sorter written in Python 3.13.
+A Love Live! character true round robin sorter written in Python 3.13.
 
 ## Features
 - Every character from μ's to Ikizurai-Bu!
