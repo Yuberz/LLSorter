@@ -4,7 +4,8 @@ A Love Live Character true round robin Sorter written in Python 3.13.
 ## Features
 - Every character from μ's to Ikizurai-Bu!
 - Has additional data like group preference, blood type preference, and height preference!
-- "Quick" mode which uses transitive relationships to dramatically reduce time required to complete (common with other 
+- True round robin, providing the most accurate answers possible.
+- "Quick" mode which uses transitive relationships to dramatically reduce time required to complete (common with other Love Live character sorters online)
 
 ## Caveats
 - True round robin takes an immense amount of comparisons (1953 comparisons!)
