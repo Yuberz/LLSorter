@@ -726,7 +726,7 @@ class LoveLiveTournament:
             stats_text = (
                 f"Overall Average Height: {overall_avg:.1f} cm\n"
                 f"Your Preferred Average Height: {user_avg:.1f} cm\n\n"
-                f"Your preferences lean toward {preference} characters."
+                f"{preference}"
             )
 
             stats_label = ttk.Label(
