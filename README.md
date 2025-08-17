@@ -10,6 +10,7 @@ A Love Live Character true round robin Sorter written in Python 3.13.
 - True round robin takes an immense amount of comparisons (1953 comparisons!)
 - Some characters do not have data for blood type (they are ignored on data displays)
 - Rival group characters are not included.
+- Slow initial run (could be fixed by precaching the images I guess? Doesn't seem worth it, once a user has seen all of the characters once the performance is just fine)
 
 ## TODO
 - Maybe add the rival groups (would take only a few minutes but I'm lazy)
